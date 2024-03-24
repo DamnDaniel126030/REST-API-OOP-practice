@@ -1,0 +1,7 @@
+C:\Petrik\Második Félév\AA Fejlesztés\LibraryOOP\LibraryOOP\bin\Debug\LibraryOOP.exe.config
+C:\Petrik\Második Félév\AA Fejlesztés\LibraryOOP\LibraryOOP\bin\Debug\LibraryOOP.exe
+C:\Petrik\Második Félév\AA Fejlesztés\LibraryOOP\LibraryOOP\bin\Debug\LibraryOOP.pdb
+C:\Petrik\Második Félév\AA Fejlesztés\LibraryOOP\LibraryOOP\obj\Debug\LibraryOOP.csproj.AssemblyReference.cache
+C:\Petrik\Második Félév\AA Fejlesztés\LibraryOOP\LibraryOOP\obj\Debug\LibraryOOP.csproj.CoreCompileInputs.cache
+C:\Petrik\Második Félév\AA Fejlesztés\LibraryOOP\LibraryOOP\obj\Debug\LibraryOOP.exe
+C:\Petrik\Második Félév\AA Fejlesztés\LibraryOOP\LibraryOOP\obj\Debug\LibraryOOP.pdb
