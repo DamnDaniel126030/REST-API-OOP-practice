@@ -1,0 +1,8 @@
+# Ignore JS files
+.js
+
+# Ignore css files
+.css
+
+# Ignore text files
+.txt
