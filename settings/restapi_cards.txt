@@ -1,0 +1,9 @@
+Endpoint URl - https://retoolapi.dev/Kd3wdP/data
+GET     -   /Kd3wdP/data
+GET filter   -   /Kd3wdP/data?Industry=value
+GET by id    -   /Kd3wdP/data/1
+GET paginate    -   /Kd3wdP/data?_page=2&_limit=10
+POST    -   /Kd3wdP/data
+PUT     -   /Kd3wdP/data/1
+PATCH   -   /Kd3wdP/data/1
+DELETE      -   /Kd3wdP/data/1
